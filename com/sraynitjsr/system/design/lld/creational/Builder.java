@@ -9,7 +9,7 @@ class Student {
         this.roll = roll;
     }
     public String toString() {
-        return "Student's Name is => " + this.name + " and Student's Roll is => " + this.roll;
+        return "Student's Name is " + this.name + " and Student's Roll is => " + this.roll;
     }
 }
 

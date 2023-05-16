@@ -7,4 +7,5 @@
 # I => Interface Segregation Principle
 # D => Dependency Inversion Principle
 
-## LLD and HLD
+## Low Level Design (LLD)
+## High Level Design (HLD)

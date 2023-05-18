@@ -28,5 +28,8 @@ public class Main {
 
         System.out.println("Observer Design Pattern");
         Observer.start();
+
+        System.out.println("Flyweight Design Pattern");
+        Flyweight.start();
     }
 }

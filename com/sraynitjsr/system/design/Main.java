@@ -11,5 +11,8 @@ public class Main {
 
         System.out.println("Builder Design Pattern");
         Builder.start();
+
+        System.out.println("Factory Design Pattern");
+        Factory.start();
     }
 }

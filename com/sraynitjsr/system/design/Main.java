@@ -25,5 +25,8 @@ public class Main {
 
         System.out.println("Strategy Design Pattern");
         Strategy.start();
+
+        System.out.println("Observer Design Pattern");
+        Observer.start();
     }
 }

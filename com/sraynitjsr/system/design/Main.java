@@ -18,5 +18,8 @@ public class Main {
 
         System.out.println("Decorator Design Pattern");
         Decorator.start();
+
+        System.out.println("Facade Design Pattern");
+        Facade.start();
     }
 }

@@ -1,5 +1,6 @@
 package com.sraynitjsr.system.design;
 
+import com.sraynitjsr.system.design.lld.structural.*;
 import com.sraynitjsr.system.design.lld.creational.*;
 
 public class Main {
@@ -14,5 +15,8 @@ public class Main {
 
         System.out.println("Factory Design Pattern");
         Factory.start();
+
+        System.out.println("Decorator Design Pattern");
+        Decorator.start();
     }
 }

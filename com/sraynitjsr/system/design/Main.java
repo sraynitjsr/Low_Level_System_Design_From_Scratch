@@ -8,11 +8,11 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("System Design From Scratch");
         
-        System.out.println("Strategy Design Pattern");
-        Strategy.start();
-
         System.out.println("Observer Design Pattern");
         Observer.start();
+
+        System.out.println("Strategy Design Pattern");
+        Strategy.start();
 
         System.out.println("Builder Design Pattern");
         Builder.start();
@@ -20,11 +20,14 @@ public class Main {
         System.out.println("Factory Design Pattern");
         Factory.start();
 
+        System.out.println("Prototype Design Pattern");
+        Prototype.start();
+
         System.out.println("Singleton Design Pattern");
         Singleton.start();
 
-        System.out.println("Prototype Design Pattern");
-        Prototype.start();
+        System.out.println("Adapter Design Pattern");
+        Adapter.start();
 
         System.out.println("Decorator Design Pattern");
         Decorator.start();

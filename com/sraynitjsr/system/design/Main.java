@@ -14,14 +14,17 @@ public class Main {
         System.out.println("Observer Design Pattern");
         Observer.start();
 
-        System.out.println("Singleton Design Pattern");
-        Singleton.start();
-
         System.out.println("Builder Design Pattern");
         Builder.start();
 
         System.out.println("Factory Design Pattern");
         Factory.start();
+
+        System.out.println("Singleton Design Pattern");
+        Singleton.start();
+
+        System.out.println("Prototype Design Pattern");
+        Prototype.start();
 
         System.out.println("Decorator Design Pattern");
         Decorator.start();

@@ -16,7 +16,7 @@ class MyDatabase {
 
 public class Singleton {
     public static void start() {
-        System.out.println("Singleton Design Patter");
+        System.out.println("********Singleton Design Pattern********");
         MyDatabase obj1 = MyDatabase.getInstance();
         System.out.println(obj1.getClass().getName() + " Obj1");
 

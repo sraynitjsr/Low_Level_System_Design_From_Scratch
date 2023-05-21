@@ -8,6 +8,12 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("System Design From Scratch");
         
+        System.out.println("Strategy Design Pattern");
+        Strategy.start();
+
+        System.out.println("Observer Design Pattern");
+        Observer.start();
+
         System.out.println("Singleton Design Pattern");
         Singleton.start();
 
@@ -22,12 +28,6 @@ public class Main {
 
         System.out.println("Facade Design Pattern");
         Facade.start();
-
-        System.out.println("Strategy Design Pattern");
-        Strategy.start();
-
-        System.out.println("Observer Design Pattern");
-        Observer.start();
 
         System.out.println("Flyweight Design Pattern");
         Flyweight.start();

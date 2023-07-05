@@ -9,3 +9,6 @@
 
 ## Low Level Design (LLD)
 ## High Level Design (HLD)
+
+## KISS Principle
+#  Keep It Simple, Stupid

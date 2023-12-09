@@ -10,8 +10,10 @@ public class Main {
 
         System.out.println();
         Observer.start();
-        System.out.println();
+        System.out.println();        
         Strategy.start();
+        System.out.println();
+        ChainOfResponsibility.start();
 
         System.out.println();
         Builder.start();

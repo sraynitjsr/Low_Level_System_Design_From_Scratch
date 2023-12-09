@@ -44,7 +44,7 @@ class ConcreteHandler2 implements Handler {
 }
 
 public class ChainOfResponsibility {
-    public static void main(String[] args) {
+    public static void start() {
         Handler handler1 = new ConcreteHandler1();
         Handler handler2 = new ConcreteHandler2();
         

@@ -23,6 +23,8 @@ public class Main {
         Prototype.start();
         System.out.println();
         Singleton.start();
+        System.out.println();
+        ProxyPattern.start();
 
         System.out.println();
         Adapter.start();

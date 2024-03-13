@@ -14,6 +14,8 @@ public class Main {
         Strategy.start();
         System.out.println();
         ChainOfResponsibility.start();
+        System.out.println();
+        MediatorStarter.start();
 
         System.out.println();
         Builder.start();

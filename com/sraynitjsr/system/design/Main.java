@@ -36,5 +36,7 @@ public class Main {
         Facade.start();
         System.out.println();
         Flyweight.start();
+        System.out.println();
+        CompositeExample.start()
     }
 }

@@ -18,6 +18,8 @@ public class Main {
         MediatorStarter.start();
         System.out.println();
         VisitorPattern.start();
+        System.out.println();
+        IteratorPattern.start();
 
         System.out.println();
         Builder.start();

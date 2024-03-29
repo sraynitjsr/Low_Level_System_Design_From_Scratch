@@ -16,6 +16,8 @@ public class Main {
         ChainOfResponsibility.start();
         System.out.println();
         MediatorStarter.start();
+        System.out.println();
+        VisitorPattern.start();
 
         System.out.println();
         Builder.start();
